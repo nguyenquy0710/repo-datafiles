@@ -1,0 +1,22 @@
+[
+    {
+        "id": "cake",
+        "name": "Bánh Ngọt",
+        "icon": "./assets/images/static/category-coffee.svg"
+    },
+    {
+        "id": "tea-party",
+        "name": "Tiệc trà",
+        "icon": "./assets/images/static/category-matcha.svg"
+    },
+    {
+        "id": "natural-scented-candles",
+        "name": "Nến thơm tự nhiên",
+        "icon": "./assets/images/static/category-coffee.svg"
+    },
+    {
+        "id": "food",
+        "name": "Đồ ăn vặt",
+        "icon": "./assets/images/static/category-food.svg"
+    }
+]

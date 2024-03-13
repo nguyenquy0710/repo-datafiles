@@ -1,0 +1,73 @@
+[
+    {
+        "key": "size",
+        "label": "Kích cỡ",
+        "type": "single",
+        "default": "m",
+        "options": [
+            {
+                "key": "s",
+                "label": "Nhỏ",
+                "priceChange": {
+                    "type": "percent",
+                    "percent": -0.2
+                }
+            },
+            {
+                "key": "m",
+                "label": "Vừa"
+            },
+            {
+                "key": "l",
+                "label": "To",
+                "priceChange": {
+                    "type": "percent",
+                    "percent": 0.2
+                }
+            }
+        ]
+    },
+    {
+        "key": "toping",
+        "label": "Topping",
+        "type": "multiple",
+        "default": [
+            "t1",
+            "t4"
+        ],
+        "options": [
+            {
+                "key": "t1",
+                "label": "Trân châu",
+                "priceChange": {
+                    "type": "fixed",
+                    "amount": 5000
+                }
+            },
+            {
+                "key": "t2",
+                "label": "Bánh flan",
+                "priceChange": {
+                    "type": "fixed",
+                    "amount": 10000
+                }
+            },
+            {
+                "key": "t3",
+                "label": "Trang trí",
+                "priceChange": {
+                    "type": "percent",
+                    "percent": 0.15
+                }
+            },
+            {
+                "key": "t4",
+                "label": "Không lấy đá",
+                "priceChange": {
+                    "type": "fixed",
+                    "amount": -5000
+                }
+            }
+        ]
+    }
+]
