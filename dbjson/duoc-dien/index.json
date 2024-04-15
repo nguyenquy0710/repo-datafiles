@@ -1,5 +1,6 @@
 {
-  "$schema": "https://datas.quyit.id.vn/dbjson/duoc-dien/schema.json",
+  "$schema": "https://datas.quyit.id.vn/dbjson/duoc-dien/schema.json#",
+  "$id": "",
   "metadata": {
     "og": {
       "type": "website",
