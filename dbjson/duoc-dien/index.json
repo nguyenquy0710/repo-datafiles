@@ -1,1 +1,26 @@
-{}
+{
+  "$schema": "https://datas.quyit.id.vn/dbjson/duoc-dien/schema.json",
+  "metadata": {
+    "og": {
+      "type": "website",
+      "title": "Dược liệu Bách bảo",
+      "site_name": "Dược liệu Bách bảo",
+      "description": "Dược liệu Bách bảo là một kho tàng tri thức toàn diện về các vị thuốc Đông y, giúp bạn tìm hiểu và sử dụng các loại thảo dược một cách hiệu quả và an toàn.",
+      "updated_time": 1713192388,
+      "image": {
+        "alt": "A beautiful landscape",
+        "url": ""
+      }
+    },
+    "ia": {
+      "rules_url": "",
+      "rules_url_dev": "",
+      "markup_url": "",
+      "markup_url_dev": ""
+    }
+  },
+  "name": "Dược điển Bách bảo",
+  "tags": [
+    "book"
+  ]
+}
