@@ -1,6 +1,104 @@
 {
-  "$id": "index.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Generated schema for Root",
   "type": "object",
-  "title": "",
-  "description": ""
+  "properties": {
+    "$schema": {
+      "type": "string"
+    },
+    "$id": {
+      "type": "string"
+    },
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "og": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "site_name": {
+              "type": "string"
+            },
+            "description": {
+              "type": "string"
+            },
+            "updated_time": {
+              "type": "number"
+            },
+            "image": {
+              "type": "object",
+              "properties": {
+                "alt": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "alt",
+                "url"
+              ]
+            }
+          },
+          "required": [
+            "type",
+            "title",
+            "site_name",
+            "description",
+            "updated_time",
+            "image"
+          ]
+        },
+        "ia": {
+          "type": "object",
+          "properties": {
+            "rules_url": {
+              "type": "string"
+            },
+            "rules_url_dev": {
+              "type": "string"
+            },
+            "markup_url": {
+              "type": "string"
+            },
+            "markup_url_dev": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "rules_url",
+            "rules_url_dev",
+            "markup_url",
+            "markup_url_dev"
+          ]
+        }
+      },
+      "required": [
+        "og",
+        "ia"
+      ]
+    },
+    "name": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "$schema",
+    "$id",
+    "metadata",
+    "name",
+    "tags"
+  ]
 }

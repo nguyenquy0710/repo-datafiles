@@ -1,1 +1,153 @@
-{}
+{
+  "$schema": "https://datas.quyit.id.vn/dbjson/duoc-dien/schema.json#",
+  "$id": "",
+  "metadata": {
+    "og": {
+      "type": "website",
+      "title": "Dược liệu Bách bảo",
+      "site_name": "Dược liệu Bách bảo",
+      "description": "Dược liệu Bách bảo là một kho tàng tri thức toàn diện về các vị thuốc Đông y, giúp bạn tìm hiểu và sử dụng các loại thảo dược một cách hiệu quả và an toàn.",
+      "updated_time": 1713192388,
+      "image": {
+        "alt": "A beautiful landscape",
+        "url": ""
+      }
+    },
+    "ia": {
+      "rules_url": "",
+      "rules_url_dev": "",
+      "markup_url": "",
+      "markup_url_dev": ""
+    }
+  },
+  "name": "Dược điển Bách bảo",
+  "tags": [
+    {
+      "value": "book"
+    }
+  ],
+  "toc": {
+    "a": "/a/index.json",
+    "b": "/b/index.json",
+    "c": "/c/index.json",
+    "d": "/d/index.json",
+    "e": "/e/index.json",
+    "f": "/f/index.json",
+    "g": "/g/index.json",
+    "h": "/h/index.json",
+    "i": "/i/index.json",
+    "j": "/j/index.json",
+    "k": "/k/index.json",
+    "l": "/l/index.json",
+    "m": "/m/index.json",
+    "n": "/n/index.json",
+    "o": "/o/index.json",
+    "p": "/p/index.json",
+    "q": "/q/index.json",
+    "r": "/r/index.json",
+    "s": "/s/index.json",
+    "t": "/t/index.json",
+    "u": "/u/index.json",
+    "v": "/v/index.json",
+    "w": "/w/index.json",
+    "x": "/x/index.json",
+    "y": "/y/index.json",
+    "z": "/z/index.json"
+  },
+  "induction": [
+    {
+      "id": 0,
+      "value": "",
+      "format": ""
+    },
+    {
+      "id": 1,
+      "value": "Kính gửi quý độc giả,",
+      "format": "bold"
+    },
+    {
+      "id": 2,
+      "value": "Từ xa xưa, con người đã biết sử dụng các loại thảo mộc để chữa bệnh và bảo vệ sức khỏe. Đông y, với lịch sử hàng nghìn năm, đã góp phần to lớn vào kho tàng tri thức y học của nhân loại. Ngày nay, Đông y ngày càng được quan tâm và ứng dụng rộng rãi bởi tính hiệu quả và an toàn.",
+      "format": ""
+    },
+    {
+      "id": 3,
+      "value": "\"Dược liệu Bách bảo\" ra đời với mong muốn cung cấp cho quý độc giả một nguồn thông tin hữu ích về các vị thuốc Đông y. Cuốn sách này là kết quả của quá trình nghiên cứu và biên soạn kỹ lưỡng, dựa trên những tài liệu y học cổ truyền uy tín và kinh nghiệm thực tế của các chuyên gia Đông y.",
+      "format": ""
+    },
+    {
+      "id": 4,
+      "value": "\"Dược liệu Bách bảo\" bao gồm hơn 1000 vị thuốc Đông y được mô tả chi tiết về nguồn gốc, đặc điểm, thành phần hóa học, tác dụng dược lý, công dụng và liều lượng sử dụng. Cuốn sách còn cung cấp hình ảnh minh họa sắc nét giúp quý độc giả dễ dàng nhận biết các vị thuốc.",
+      "format": ""
+    },
+    {
+      "id": 5,
+      "value": "Ngoài ra, \"Dược liệu Bách bảo\" còn giới thiệu những bài thuốc Đông y được bào chế từ các vị thuốc Đông y, giúp điều trị hiệu quả các bệnh lý thường gặp. Cuốn sách cũng cung cấp kiến thức Đông y về chẩn đoán, điều trị bệnh và bảo vệ sức khỏe, cùng với lời khuyên từ các chuyên gia Đông y giúp quý độc giả sử dụng thuốc Đông y một cách an toàn và hiệu quả.",
+      "format": ""
+    },
+    {
+      "id": 6,
+      "value": "\"Dược liệu Bách bảo\" là tài liệu tham khảo hữu ích cho:",
+      "format": "",
+      "items": [
+        {
+          "id": 1,
+          "value": "Người đam mê Đông y muốn tìm hiểu về các vị thuốc và bài thuốc Đông y.",
+          "format": ""
+        },
+        {
+          "id": 2,
+          "value": "Người muốn sử dụng thuốc Đông y để điều trị bệnh và bảo vệ sức khỏe.",
+          "format": ""
+        },
+        {
+          "id": 3,
+          "value": "Các thầy thuốc Đông y muốn tra cứu thông tin về các vị thuốc và bài thuốc Đông y.",
+          "format": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "value": "Với \"Dược liệu Bách bảo\", quý độc giả có thể:",
+      "format": "",
+      "items": [
+        {
+          "id": 1,
+          "value": "Tìm kiếm thông tin về các vị thuốc Đông y một cách nhanh chóng và dễ dàng.",
+          "format": ""
+        },
+        {
+          "id": 2,
+          "value": "Lựa chọn bài thuốc Đông y phù hợp với tình trạng sức khỏe của bản thân.",
+          "format": ""
+        },
+        {
+          "id": 3,
+          "value": "Sử dụng thuốc Đông y an toàn và hiệu quả.",
+          "format": ""
+        },
+        {
+          "id": 4,
+          "value": "Nâng cao kiến thức về Đông y để bảo vệ sức khỏe bản thân và gia đình.",
+          "format": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "value": "Chúng tôi tin rằng \"Dược liệu Bách bảo\" sẽ là người bạn đồng hành đắc lực cho quý độc giả trên con đường tìm kiếm sức khỏe từ thiên nhiên.",
+      "format": "bold"
+    },
+    {
+      "id": 9,
+      "value": "Kính chúc quý độc giả luôn mạnh khỏe, hạnh phúc!",
+      "format": "bold"
+    },
+    {
+      "id": 10,
+      "value": "Thay mặt Ban biên soạn",
+      "format": "bold"
+    }
+  ]
+}
